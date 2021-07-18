@@ -21,4 +21,3 @@
 ![2021-07-18_13-02_3](https://user-images.githubusercontent.com/33801628/126064442-4cf196f9-1dc1-4925-bae7-5a26acef20ed.png)
 ![2021-07-18_13-02_4](https://user-images.githubusercontent.com/33801628/126064445-8206b733-5849-4dc8-8e3d-0a1567093005.png)
 ![2021-07-18_13-02_5](https://user-images.githubusercontent.com/33801628/126064446-a4b5015d-c611-4bf8-b2cc-e041c99e2945.png)
-
