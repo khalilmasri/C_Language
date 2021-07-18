@@ -64,7 +64,7 @@ string_array* my_split(char* param_1, char* param_2)
 
 }
 ```
-**Example 00
+**Example 00**
 ```
 Input: "abc def gh-!" && "-"
 Output: 
